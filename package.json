@@ -1,0 +1,21 @@
+{
+  "name": "fp-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "purescript": "^0.14.1",
+    "purty": "^7.0.0",
+    "spago": "^0.20.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "xhr2": "^0.2.1"
+  }
+}
